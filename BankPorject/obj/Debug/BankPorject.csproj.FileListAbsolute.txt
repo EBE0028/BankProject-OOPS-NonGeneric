@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\BankPorject\BankPorject\bin\Debug\BankPorject.exe.config
+C:\Users\Admin\source\repos\BankPorject\BankPorject\bin\Debug\BankPorject.exe
+C:\Users\Admin\source\repos\BankPorject\BankPorject\bin\Debug\BankPorject.pdb
+C:\Users\Admin\source\repos\BankPorject\BankPorject\obj\Debug\BankPorject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BankPorject\BankPorject\obj\Debug\BankPorject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BankPorject\BankPorject\obj\Debug\BankPorject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankPorject\BankPorject\obj\Debug\BankPorject.exe
+C:\Users\Admin\source\repos\BankPorject\BankPorject\obj\Debug\BankPorject.pdb
