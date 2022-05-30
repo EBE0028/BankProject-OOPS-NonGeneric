@@ -20,7 +20,6 @@ class SBI : Bank
 	public void GetAccountDetails(int AccNumber, String Name, int AccBal)
 	{
 		int i = 0;
-		int e=0;
 		this.AccountNumber = AccNumber;
 		this.AccountHolderName = Name;
 		this.AccBalance = AccBal;
